@@ -8,8 +8,7 @@ This repository contains notebooks to reproduce the results presented in the man
   - "S" --> supplementary materials
   - "M" --> methods
   - "R" --> results
-  - "D" --> discussion
   
-The following number(s) corresponds to the paper element number. Background maps are loaded as pickles to speed up the plotting. These pickles are created in the notebook "map-pickles.ipynb".  
+The following number(s) corresponds to the paper element number. Background maps are loaded as pickles to speed up the plotting. These pickles are created in the notebook "map-pickles.ipynb" within paper-materials.  
 
 For the dissolved Pb model code, setup, and experiments, please refer to the Federated Research Data Repository: https://doi.org/10.20383/103.0965
