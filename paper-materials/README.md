@@ -12,7 +12,7 @@ This directority contains the code for the main text figures:
 - R6-budget.ipynb --- calculations and figure of the Pb budget estimated from these simulations
 - R7-atlantic.ipynb --- depth slices and transect of regions most impacted by Atlantic water using dissolved Pb as a tracer
 - R8-isolation.ipynb --- similar to above but looking at how isolated Baffin Bay is from contributions from the shelves / Atlantic water
-- R9-jet.ipynb --- visualization of a seasonal jet of Atlantic water that crosses through Davis Strait as identified with dissolved Pb
+- R9,S10,S11-jet.ipynb --- visualization of a seasonal jet of Atlantic water that crosses through Davis Strait as identified with dissolved Pb, looking at different depth levels and months
 
 And, supplementary material figures:
 - S1-boundary-condition-method.ipynb --- explanation of the method used to develop the model dissolved Pb boundary conditions
